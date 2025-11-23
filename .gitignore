@@ -1,2 +1,6 @@
 models/best_model.keras
 *.keras
+dataset/
+dataset/
+models/*.keras
+logs/
